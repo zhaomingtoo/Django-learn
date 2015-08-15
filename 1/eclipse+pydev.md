@@ -17,12 +17,12 @@ ls
 启动eclipse，在菜单栏中找到Help选项卡，点击选中Install New Software...,点击work with最右的Add...，Name一栏填入Pydev，Location一栏输入:
 <pre>http://pydev.org/updates</pre>
 
-![截图1.1](/home/troll/图片/2015-08-15 18:01:47屏幕截图.png)
-![截图1.2](/home/troll/图片/2015-08-15 18:02:09屏幕截图.png)
+![截图1.1](../images/2015-08-15 18:01:47屏幕截图.png)
+![截图1.2](../images/2015-08-15 18:02:09屏幕截图.png)
 
 然后就是一路next了，在这期间可能会报time out错误，多尝试几次就好了，安装成功之后我们还要为pydev配置pytho解释器，选择eclips菜单选项卡上的windows选项卡，然后选择Preferences，展开Pyde-Interpreters-Pytho Interpreter。在右上角点击点击New,输入解释器名字和解释器路径即可，这里的我的设置如下：
 
-![截图1.3](/home/troll/图片/2015-08-15 18:08:18屏幕截图.png)
+![截图1.3](../images/2015-08-15 18:08:18屏幕截图.png)
 
 至此为止，我们的开发环境已经搭建完毕，下面我们就将进入Django的正式学习了。
 
